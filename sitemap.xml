@@ -7,20 +7,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.example.com/2015/02/08/first-blog-to-test/index.html</loc>
+    <lastmod>2015-02-08T14:11:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.example.com/index.html</loc>
-    <lastmod>2015-02-08T13:45:17+00:00</lastmod>
+    <lastmod>2015-02-08T14:12:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.example.com/author/middleman/index.html</loc>
-    <lastmod>2015-02-08T13:45:17+00:00</lastmod>
+    <lastmod>2015-02-08T14:12:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.example.com/tag/getting-started/index.html</loc>
-    <lastmod>2015-02-08T13:45:17+00:00</lastmod>
+    <lastmod>2015-02-08T14:12:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
